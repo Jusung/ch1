@@ -1,1 +1,2 @@
+- user에 이름 validation 기능 추가
 - user/pass 기본기능 추가
