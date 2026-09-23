@@ -1,3 +1,4 @@
 - user에 이름 validation 기능 추가
+- id/비밀번호 찾기 기능 추가
 - pass 감춤 처리
 - user/pass 기본기능 추가
