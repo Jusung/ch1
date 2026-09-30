@@ -2,4 +2,5 @@
 - id/비밀번호 찾기 기능 추가
 - pass 감춤 처리
 - user/pass 성능개선
+- user/pass 개수 제한 처리
 - user/pass 기본기능 추가
